@@ -1,0 +1,2 @@
+﻿  SudokuBackendC.cpp
+C:\Users\pi890\Projektgruppe\Sudoku\SudokuBackendC\vcpkg\installed\x64-windows\include\opencv4\opencv2\opencv.hpp(48,10): fatal  error C1083: Datei (Include) kann nicht geöffnet werden: "opencv2/opencv_modules.hpp": No such file or directory
